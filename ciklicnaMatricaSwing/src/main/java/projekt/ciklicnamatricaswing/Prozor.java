@@ -126,10 +126,6 @@ public class Prozor extends javax.swing.JFrame {
 
     private void txtPrviBrojActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtPrviBrojActionPerformed
        txtPrviBroj.getText();
-        txtPrviBroj.getText();
-         txtPrviBroj.getText();
-         
-       
     }//GEN-LAST:event_txtPrviBrojActionPerformed
 
     private void txtDrugiBrojActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtDrugiBrojActionPerformed
